@@ -1,2 +1,1 @@
-# ICT
-Project of ICT.
+read me
